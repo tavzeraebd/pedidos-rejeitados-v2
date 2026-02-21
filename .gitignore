@@ -1,0 +1,9 @@
+# Ignorar pastas de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Outros arquivos comuns que você talvez queira ignorar
+.venv/
+.env
+.vscode/
