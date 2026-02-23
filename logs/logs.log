@@ -1,0 +1,4 @@
+[2026-02-23 13:23:29] [INFO] --- INÍCIO DO PROCESSO ROBO-PEDIDOS-REJEITADOS ---
+[2026-02-23 13:23:44] [INFO] Token Máxima atualizado no .env (demais variáveis preservadas).
+[2026-02-23 13:23:44] [INFO] Coletando dados da Máxima...
+[2026-02-23 13:23:46] [WARNING] Processo encerrado devido à ausência de transações no dia.
