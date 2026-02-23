@@ -61,7 +61,7 @@ def processar_e_salvar_transacoes():
         lista_data = dados_originais.get("data", [])
 
         if not lista_data:
-            print(f"A API retornou sucesso, mas a lista 'data' veio vazia para o dia {hoje}.")
+            print(f"Nenhuma transação localizada para o dia {hoje}. Processo encerrado.")
             return None
 
         transacoes_formatadas = []
